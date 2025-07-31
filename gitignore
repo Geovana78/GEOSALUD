@@ -1,0 +1,32 @@
+# Relacionado con Flutter/Dart/Pub
+.dart_tool/
+.packages
+.pub/
+build/
+flutter_*.png
+generated_plugin_registrant.dart
+
+# Relacionado con Android
+*.iml
+.gradle/
+local.properties
+.idea/
+*.keystore
+
+# Relacionado con iOS
+Pods/
+.flutter-plugins
+.flutter-plugins-dependencies
+Generated.xcconfig
+
+# Varios
+*.lock
+*.log
+*.tmp
+*.swp
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
