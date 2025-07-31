@@ -1,0 +1,6 @@
+llave_union,municipio,localidad,POBTOT,total_establecimientos,semaforo_actual,poblacion_futura,semaforo_futuro,recomendacion_actual,recomendacion_futura
+11001001,León,San Juan,2500,1,🟡,2765,🔴,Unidad Móvil,Clínica Nueva
+11002003,Irapuato,La Esperanza,1300,0,🔴,1431,🔴,Clínica Nueva,Clínica Nueva
+11003005,Celaya,El Vergel,950,1,🟢,1045,🟡,Suficiente,Unidad Móvil
+11004007,Salamanca,San Antonio,4000,2,🟢,4420,🟢,Suficiente,Suficiente
+11005009,Pénjamo,El Refugio,2200,1,🟡,2433,🟡,Unidad Móvil,Unidad Móvil
