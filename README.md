@@ -60,5 +60,6 @@ Incluye pasos de limpieza, unión, cálculo de indicadores y generación del dat
 ---
 
 > 📱 *GeoSalud: Salud cercana, futuro seguro.*
-> i este proyecto te inspira, puedes apoyarlo aquí:  
-👉 [buymeacoffee.com/geo.salud](https://buymeacoffee.com/geo.salud)
+> i este proyecto te inspira, puedes apoyarlo aquí:
+>   
+[![Apóyame en BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Apóyame&emoji=☕&slug=geo.salud&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/geo.salud)
