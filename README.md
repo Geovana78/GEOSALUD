@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="./activos/d93ca70b-da6a-4d2d-b864-52923585c0ae.jpg" alt="GeoSalud Logo" width="300"/>
+  <img src="https://raw.githubusercontent.com/Geovana78/GEOSALUD/principal/activos/d93ca70b-da6a-4d2d-b864-52923585c0ae.jpg" alt="GeoSalud Logo" width="300"/>
 </p>
-
 # 🩺 GeoSalud  
 *Salud cercana, futuro seguro.*  
 
