@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="activos/Logotipo.png" alt="Logotipo de GeoSalud" width="250"/>
+  <img src="activos/logotipo.png" alt="Logotipo de GeoSalud" width="250"/>
 </p>
+
 
 # 🩺 GeoSalud  
 *Salud cercana, futuro seguro.*  
