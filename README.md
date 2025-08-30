@@ -7,12 +7,14 @@
 ---
 
 ## 🔖 Etiquetas
-![SC-900](https://img.shields.io/badge/Microsoft-SC900-blue) 
-![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?logo=azure&logoColor=white) 
-![Cloud Security](https://img.shields.io/badge/Cloud-Security-blue) 
-![IAM](https://img.shields.io/badge/Identity%20&%20Access-Management-orange) 
-![Zero Trust](https://img.shields.io/badge/Zero-Trust-green) 
-![Data Engineering](https://img.shields.io/badge/Data-Engineering-yellow)
+![KNIME](https://img.shields.io/badge/KNIME-Data%20Analytics-yellow?logo=knime&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)  
+![Flutter](https://img.shields.io/badge/Flutter-Mobile%20App-02569B?logo=flutter&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Visualization-F2C811?logo=powerbi&logoColor=black)  
+![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?logo=github&logoColor=white)  
+![Data Engineering](https://img.shields.io/badge/Data-Engineering-orange)  
+![Open Data](https://img.shields.io/badge/Open%20Data-Gov-008000)  
+![Salud Pública](https://img.shields.io/badge/Salud-Pública-red)  
 
 ---
 
