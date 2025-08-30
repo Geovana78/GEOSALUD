@@ -1,8 +1,14 @@
+<p align="center">
+  <img src="activos/Logotipo.png" alt="GeoSalud Logo" width="300"/>
+</p>
+
 # 🩺 GeoSalud  
 *Salud cercana, futuro seguro.*  
 
 > Proyecto de ingeniería de datos para análisis geoespacial y predicción de necesidades médicas usando más de **186 millones de registros públicos**.  
 > Incluye procesamiento ETL en **KNIME**, visualización en **Power BI**, desarrollo de apps en **Flutter** y lógica condicional en **Python**.  
+
+⭐ **Si este proyecto te gusta, no olvides dejar una estrella en GitHub para apoyarlo.**
 
 ---
 
