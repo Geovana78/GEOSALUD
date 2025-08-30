@@ -44,8 +44,11 @@
 
 <div align="center">
 
-🔗 **[Ver demo de la aplicación (MP4)](./documentacion/WhatsApp%20Video%202025-07-30%20at%201.57.33%20PM.mp4)**
+[![TikTok Demo](https://img.shields.io/badge/🎬%20Ver%20Demo-TikTok-ff0050?style=for-the-badge&logo=tiktok&logoColor=white)](https://vt.tiktok.com/ZSAQTuGPA/)
 
+*🏥 App móvil GeoSalud en acción - Análisis geoespacial de salud*
+
+</div>
 *Este video muestra la funcionalidad completa de GeoSalud*
 
 </div>
