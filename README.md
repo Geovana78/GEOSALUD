@@ -16,17 +16,6 @@
 
 ---
 
-## 🚀 Características principales
-
-- 📊 **Análisis Big Data**: Procesamiento de 186M+ registros públicos
-- 🗺️ **Geolocalización**: Mapeo de necesidades médicas por localidad  
-- 🔮 **Predicción**: Proyección de necesidades a 5 años
-- 📱 **App móvil**: Interfaz Flutter con filtros inteligentes
-- 📈 **Visualización**: Dashboards interactivos en Power BI
-- 🏥 **Semáforo médico**: Indicadores de cobertura por zona
-
----
-
 ## 🔖 Tecnologías
 
 ![KNIME](https://img.shields.io/badge/KNIME-Data%20Analytics-yellow?logo=knime&logoColor=black)  
@@ -37,6 +26,17 @@
 ![Data Engineering](https://img.shields.io/badge/Data-Engineering-orange)  
 ![Open Data](https://img.shields.io/badge/Open%20Data-Gov-008000)  
 ![Salud Pública](https://img.shields.io/badge/Salud-Pública-red)  
+
+---
+
+## 🚀 Características principales
+
+- 📊 **Análisis Big Data**: Procesamiento de 186M+ registros públicos
+- 🗺️ **Geolocalización**: Mapeo de necesidades médicas por localidad  
+- 🔮 **Predicción**: Proyección de necesidades a 5 años
+- 📱 **App móvil**: Interfaz Flutter con filtros inteligentes
+- 📈 **Visualización**: Dashboards interactivos en Power BI
+- 🏥 **Semáforo médico**: Indicadores de cobertura por zona  
 
 ---
 
@@ -158,3 +158,4 @@ Si **GeoSalud** te inspira o puede ser útil para tu investigación:
 
 <div align="center">
   <sub>Desarrollado con ❤️ para mejorar la salud pública en México</sub>
+</div>
