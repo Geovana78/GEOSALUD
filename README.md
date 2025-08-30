@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="activos/logotipo.png" alt="Logotipo de GeoSalud" width="250"/>
+  <img src="activos/logo.geosalud.jpg" alt="Logo GeoSalud" width="200"/>
 </p>
 
 # 🩺 GeoSalud  
