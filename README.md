@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="activos/Logotipo.png" alt="GeoSalud Logo" width="300"/>
+  <img src="./activos/Logotipo.png" alt="GeoSalud Logo" width="300"/>
 </p>
 
 # 🩺 GeoSalud  
@@ -8,8 +8,7 @@
 > Proyecto de ingeniería de datos para análisis geoespacial y predicción de necesidades médicas usando más de **186 millones de registros públicos**.  
 > Incluye procesamiento ETL en **KNIME**, visualización en **Power BI**, desarrollo de apps en **Flutter** y lógica condicional en **Python**.  
 
-⭐ **Si este proyecto te parece interesante, apóyalo con una estrella en GitHub.**  
-¡Eso ayuda a que más personas lo descubran y me motiva a seguir desarrollándolo!  
+✨ Si este proyecto te parece interesante, no olvides apoyarlo con una ⭐ en GitHub.  
 
 ---
 
@@ -32,7 +31,7 @@
 ---
 
 ## 🎥 Demostración de la aplicación GeoSalud
-🔗 [Ver demo de la app (MP4)](documentacion/WhatsApp%20Video%202025-07-30%20at%201.57.33%20PM.mp4)  
+🔗 [Ver demo de la app (MP4)](./documentacion/WhatsApp%20Video%202025-07-30%20at%201.57.33%20PM.mp4)  
 
 Este video muestra:  
 ✔️ Filtros por municipio y localidad  
@@ -49,7 +48,7 @@ Incluye un flujo completo de ingeniería y análisis de datos en KNIME para:
 - Calcular semáforos de cobertura médica por localidad.  
 - Generar predicciones de necesidad futura.  
 
-📥 [Descargar flujo (.knwf)](GeoSalud_Guanajuato.knwf)
+📥 [Descargar flujo (.knwf)](./documentacion/GeoSalud_Guanajuato.knwf)
 
 ---
 
