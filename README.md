@@ -1,65 +1,82 @@
-# 🩺 GEOSALUD
+# 🩺 GeoSalud  
+*Salud cercana, futuro seguro.*  
 
-Proyecto de ingeniería de datos para análisis geoespacial y **predicción de necesidades médicas** usando más de **186 millones de registros públicos**.  
-Incluye procesamiento ETL en KNIME, visualización en Power BI, desarrollo de app en Flutter, y lógica condicional con Python.  
-Este proyecto busca detectar, clasificar y predecir el desabasto médico en localidades marginadas de México.
+> Proyecto de ingeniería de datos para análisis geoespacial y predicción de necesidades médicas usando más de **186 millones de registros públicos**.  
+> Incluye procesamiento ETL en **KNIME**, visualización en **Power BI**, desarrollo de apps en **Flutter** y lógica condicional en **Python**.  
 
 ---
 
-## 🎥 Demo de la aplicación GeoSalud
+## 🔖 Etiquetas
+![SC-900](https://img.shields.io/badge/Microsoft-SC900-blue) 
+![Azure](https://img.shields.io/badge/Microsoft-Azure-0078D4?logo=azure&logoColor=white) 
+![Cloud Security](https://img.shields.io/badge/Cloud-Security-blue) 
+![IAM](https://img.shields.io/badge/Identity%20&%20Access-Management-orange) 
+![Zero Trust](https://img.shields.io/badge/Zero-Trust-green) 
+![Data Engineering](https://img.shields.io/badge/Data-Engineering-yellow)
 
-🔗 [Ver demo de la app (MP4)](media/WhatsApp%20Video%202025-07-30%20at%201.57.33%20PM.mp4)
+---
 
-Este video muestra el funcionamiento de GeoSalud:  
+## 📌 Importante
+> ⚠️ **Nota:** Este proyecto es un prototipo académico/social.  
+> No debe aplicarse directamente en producción sin un proceso formal de validación de datos y seguridad.  
+
+---
+
+## 🎥 Demostración de la aplicación GeoSalud
+🔗 [Ver demo de la app (MP4)](PON_AQUI_TU_LINK)  
+
+Este video muestra:  
 ✔️ Filtros por municipio y localidad  
 ✔️ Tarjetas con población, clínicas y semáforo de cobertura médica  
 ✔️ Predicción de necesidades a 5 años  
-✔️ Interfaz visual móvil desarrollada con Flutter
+✔️ Interfaz móvil desarrollada con Flutter  
 
 ---
 
 ## 🧩 Flujo de trabajo en KNIME
+Incluye un flujo completo de ingeniería y análisis de datos en KNIME para:  
+- Procesar más de 186M de registros.  
+- Unificar bases RENUE + INEGI.  
+- Calcular semáforos de cobertura médica por localidad.  
+- Generar predicciones de necesidad futura.  
 
-Este proyecto incluye un flujo completo de ingeniería y análisis de datos en KNIME para procesar más de 186 millones de registros, unificar bases RENUE e INEGI, calcular semáforos de cobertura médica por localidad y generar predicciones de necesidad futura.
-
-📥 **Descargar flujo (.knwf):**  
-[GeoSalud_Guanajuato.knwf](https://github.com/Geovana78/GeoSalud_Portafolio/raw/main/GeoSalud_Guanajuato.knwf)
-
-Este archivo contiene todo el flujo de procesamiento ETL y análisis implementado en la plataforma KNIME (versión moderna).  
-Incluye pasos de limpieza, unión, cálculo de indicadores y generación del dataset final para la app GeoSalud.
+📥 [Descargar flujo (.knwf)](PON_AQUI_TU_LINK)
 
 ---
 
 ## 🧪 Cómo importar el flujo en KNIME
-
-1. Abre KNIME
-2. Ve a: `File > Import KNIME Workflow`
-3. Selecciona: `Existing workflow archive (.knwf)`
-4. Busca el archivo descargado `GeoSalud_Guanajuato.knwf`
-5. Asigna un nombre y ubicación
-6. Haz clic en `Finish` para cargar el flujo completo
+1. Abre **KNIME**  
+2. Ve a: `File > Import KNIME Workflow`  
+3. Selecciona: `Existing workflow archive (.knwf)`  
+4. Busca el archivo **GeoSalud_Guanajuato.knwf**  
+5. Asigna un nombre y ubicación  
+6. Haz clic en **Finish**  
 
 ---
 
 ## 🛠️ Herramientas utilizadas
+- **KNIME** – integración, limpieza y unión de datos Big Data  
+- **Power BI** – visualización interactiva y paneles  
+- **Flutter** – desarrollo de app móvil  
+- **Python** – cálculos condicionales y predicción poblacional  
+- **GitHub** – documentación y portafolios  
 
-- **KNIME** – para integración, limpieza y unión de datos tipo Big Data
-- **Power BI** – para visualización interactiva y dashboards
-- **Flutter** – para desarrollo de app móvil Android
-- **Python** – para cálculos condicionales y predicción poblacional
-- **GitHub** – para documentación y portafolio
+---
+
+## 📌 Consejos prácticos
+> 💡 **Tip 1:** Divide los análisis por localidad para evitar sobrecarga al trabajar con 186M de registros.  
+> 💡 **Tip 2:** Usa la columna `llave_union` para evitar errores de join en KNIME.  
+> 💡 **Tip 3:** Exporta siempre en formato `.json` o `.csv` antes de conectar la app en Flutter.  
 
 ---
 
 ## 👩‍💻 Autora
-
 **Geovana Paola Martínez Sepúlveda**  
 📍 Irapuato, Guanajuato, México  
-🔗 [https://www.linkedin.com/in/geovana-sepulveda/](https://www.linkedin.com/in/geovana-sepulveda/)
+🔗 [LinkedIn](https://www.linkedin.com/in/geovana-sepulveda/)  
 
 ---
 
-> 📱 *GeoSalud: Salud cercana, futuro seguro.*
-> i este proyecto te inspira, puedes apoyarlo aquí:
->   
-[![Apóyame en BuyMeACoffee](https://img.buymeacoffee.com/button-api/?text=Apóyame&emoji=☕&slug=geo.salud&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff)](https://buymeacoffee.com/geo.salud)
+## ☕ Apoya este proyecto
+Si **GeoSalud** te inspira, puedes apoyarlo con una ⭐ en GitHub  
+o invítame un café en [BuyMeACoffee](https://www.buymeacoffee.com/TU_USUARIO).  
